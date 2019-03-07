@@ -1,4 +1,4 @@
-package ZoeiDNS
+package Zoei
 
 import (
 	"github.com/miekg/dns"

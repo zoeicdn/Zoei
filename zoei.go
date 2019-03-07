@@ -1,1 +1,1 @@
-package ZoeiDNS
+package Zoei
